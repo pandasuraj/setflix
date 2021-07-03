@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import "./App.css";
 import Header from "./components/Header/Header";
 import SimpleBottomNavigation from "./components/MainNav";
@@ -10,7 +10,7 @@ import { Container } from "@material-ui/core";
 
 function App() {
   return (
-    <BrowserRouter>
+    <Router>
       <Header />
       <div className="app">
         <Container>
@@ -23,7 +23,7 @@ function App() {
         </Container>
       </div>
       <SimpleBottomNavigation />
-    </BrowserRouter>
+    </Router>
   );
 }
 
