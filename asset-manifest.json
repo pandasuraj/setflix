@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/setflix/static/css/main.6283b117.chunk.css",
-    "main.js": "/setflix/static/js/main.4ab61754.chunk.js",
-    "main.js.map": "/setflix/static/js/main.4ab61754.chunk.js.map",
+    "main.js": "/setflix/static/js/main.db6f3c87.chunk.js",
+    "main.js.map": "/setflix/static/js/main.db6f3c87.chunk.js.map",
     "runtime-main.js": "/setflix/static/js/runtime-main.66b23eef.js",
     "runtime-main.js.map": "/setflix/static/js/runtime-main.66b23eef.js.map",
     "static/css/2.16f77f9b.chunk.css": "/setflix/static/css/2.16f77f9b.chunk.css",
-    "static/js/2.579f668f.chunk.js": "/setflix/static/js/2.579f668f.chunk.js",
-    "static/js/2.579f668f.chunk.js.map": "/setflix/static/js/2.579f668f.chunk.js.map",
+    "static/js/2.746ec760.chunk.js": "/setflix/static/js/2.746ec760.chunk.js",
+    "static/js/2.746ec760.chunk.js.map": "/setflix/static/js/2.746ec760.chunk.js.map",
     "index.html": "/setflix/index.html",
     "static/css/2.16f77f9b.chunk.css.map": "/setflix/static/css/2.16f77f9b.chunk.css.map",
     "static/css/main.6283b117.chunk.css.map": "/setflix/static/css/main.6283b117.chunk.css.map",
-    "static/js/2.579f668f.chunk.js.LICENSE.txt": "/setflix/static/js/2.579f668f.chunk.js.LICENSE.txt"
+    "static/js/2.746ec760.chunk.js.LICENSE.txt": "/setflix/static/js/2.746ec760.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.66b23eef.js",
     "static/css/2.16f77f9b.chunk.css",
-    "static/js/2.579f668f.chunk.js",
+    "static/js/2.746ec760.chunk.js",
     "static/css/main.6283b117.chunk.css",
-    "static/js/main.4ab61754.chunk.js"
+    "static/js/main.db6f3c87.chunk.js"
   ]
 }
