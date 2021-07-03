@@ -10,7 +10,7 @@ import { Container } from "@material-ui/core";
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <Header />
       <div className="app">
         <Container>
@@ -23,7 +23,7 @@ function App() {
         </Container>
       </div>
       <SimpleBottomNavigation />
-    </Router>
+    </HashRouter>
   );
 }
 
